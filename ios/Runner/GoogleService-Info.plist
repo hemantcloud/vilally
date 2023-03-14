@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>321505501586-1a97lg4cpmimb8t688jbj34pn3b79j6j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.321505501586-1a97lg4cpmimb8t688jbj34pn3b79j6j</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>321505501586-jps4io6iv4edmehukpftr2fpq1e9l5kc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCzLGd2Ox1VWAPeznXNJ9ptJ0XVxT0n8BU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>321505501586</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cw.vitally.vitally</string>
+	<key>PROJECT_ID</key>
+	<string>vitally-32a7d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vitally-32a7d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:321505501586:ios:57af3ac1af0b2bcf7aa14b</string>
+</dict>
+</plist>
